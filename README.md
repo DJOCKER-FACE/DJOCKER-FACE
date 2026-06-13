@@ -1,6 +1,6 @@
-![typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Ayman+Badissy;CEO+%26+Founder+%40+Quindart;AI+Builder+|+Full-Stack+Engineer+|+Robotics;Building+intelligent+systems+that+solve+real+problems)
+![typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Ayman+Badissy;CEO+%26+Founder+%40+Quindart;AI+Builder+|+Full-Stack+Engineer;Based+in+Hong+Kong)
 
-[![Ayman's website — llm.ma](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24,30&height=120&section=header&text=&fontSize=0)](https://llm.ma/)
+[![Ayman's website - llm.ma](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24,30&height=120&section=header&text=&fontSize=0)](https://llm.ma/)
 
 <div align="center">
 
@@ -16,17 +16,16 @@
 
 ### About Me
 
-Serial entrepreneur and AI builder based in **Hong Kong**. I build products that solve real problems — from intelligent robotics to legal AI and mining management software.
+Entrepreneur and AI builder based in Hong Kong. I build products that solve real problems, with a focus on AI, automation, and industrial software.
 
-- CEO & Founder **@Quindart** — Intelligent robotic systems
-- Head of AI **@OpenFair** — AI strategy & implementation
-- Building **JurisMatic** (AI for Moroccan law) and **MMAM** (SaaS for mining)
+- CEO & Founder **@Quindart**
+- Head of AI **@OpenFair**
 
 ---
 
 ### At a Glance
 
-<img align="left" src="https://github-readme-stats-sigma-lake-86.vercel.app/api?username=DJOCKER-FACE&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Overview&title_color=6C63FF&text_color=c9d1d9&icon_color=6C63FF&ring_color=6C63FF" alt="GitHub Stats" width="48%" />
+<img align="left" src="https://github-readme-stats-sigma-lake-86.vercel.app/api?username=DJOCKER-FACE&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Overview&title_color=6C63FF&text_color=c9d1d9&icon_color=6C63FF&ring_color=6C63FF&rank_icon=github" alt="GitHub Stats" width="48%" />
 
 <img align="right" src="https://github-readme-streak-stats-mauve.vercel.app?user=DJOCKER-FACE&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=6C63FF&sideLabels=57606a&dates=57606a&stroke=6C63FF" alt="GitHub Streak" width="48%" />
 
@@ -44,36 +43,26 @@ Serial entrepreneur and AI builder based in **Hong Kong**. I build products that
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Frameworks & Tools**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Convex](https://img.shields.io/badge/Convex-0B0B0B?style=for-the-badge&logo=convex&logoColor=white)
 
 **AI & Cloud**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-
----
-
-### Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [**Quindart**](https://github.com/DJOCKER-FACE) | Intelligent robotic systems automating dangerous industrial tasks |
-| [**JurisMatic**](https://jurist.ma/) | AI platform fine-tuned on Moroccan law — draft, edit, validate legal docs |
-| [**MMAM**](https://mmam.ma/) | SaaS for mining management — titles, regulatory tracking, document centralization |
+![TinyGrad](https://img.shields.io/badge/TinyGrad-000000?style=for-the-badge&logo=tinygrad&logoColor=white)
 
 ---
 
