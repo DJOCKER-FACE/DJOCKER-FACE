@@ -60,6 +60,9 @@ Entrepreneur and AI builder based in Hong Kong. I build products that solve real
 **AI & Cloud**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Z.ai](https://img.shields.io/badge/Z.ai-111827?style=for-the-badge)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-0F172A?style=for-the-badge)
+![Xiaomi AI](https://img.shields.io/badge/Xiaomi_AI-FF6900?style=for-the-badge)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 ![TinyGrad](https://img.shields.io/badge/TinyGrad-000000?style=for-the-badge&logo=tinygrad&logoColor=white)
